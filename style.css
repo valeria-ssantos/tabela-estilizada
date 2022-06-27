@@ -1,0 +1,20 @@
+.produto-moda{
+    background-color: #BB86FC;
+    color: white;
+    font-size: 22px;  
+}
+.descricao-tabela{
+    background-color: #424250;
+    color: white;
+    font-size: 22px;
+}
+
+.produto-casa{
+    background-color: #00C4B4;
+    color: white;
+    font-size: 22px;
+}
+
+td,th{
+    padding: 10px;
+}
